@@ -1,7 +1,7 @@
 {
-  "name": "Black Lightning - UserBot",
-  "description": "An advanced Telethon Userbot, from @keinshin",
-  "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
+  "name": "Devil Lightning - UserBot",
+  "description": "An advanced Telethon Userbot, from @Mr_selfish_person",
+  "logo": "https://te.legra.ph/file/6a306396f89dca3e2df92.png",
   "keywords": [
    "telegram",
    "userbot",
@@ -9,7 +9,7 @@
    "modular",
    "productivity"
   ],
-  "repository": "https://github.com/KeinShin/Black-Lightning",
+  "repository": "https://github.com/Devilking12/Black-Lightning",
   "website": "https://github.com/KeinShin/Black-Lightning",
   "success_url": "https://t.me/blacklightningot",
   "stack": "container",
